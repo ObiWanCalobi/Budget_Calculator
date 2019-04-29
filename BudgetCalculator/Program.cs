@@ -9,6 +9,7 @@ namespace BudgetCalculator
     {
         // *************************************
         // App: The Budget Calculator
+        // App Type: NET Framework - Console App
         // Author: Carlisle, Caleb
         // Date Created: 4/20/19
         // Date Revised: 4/28/19
